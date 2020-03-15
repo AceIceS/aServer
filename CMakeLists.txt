@@ -58,9 +58,9 @@ target_link_libraries(aServer /home/ubuntu/GithubFiles/aServer/lib/libopencv_cal
 target_link_libraries(aServer /home/ubuntu/GithubFiles/aServer/lib/libopencv_core.so.3.3)
 target_link_libraries(aServer /home/ubuntu/GithubFiles/aServer/lib/libopencv_imgcodecs.so.3.3)
 
-target_link_libraries(aServer /home/ubuntu/GithubFiles/aServer/lib/libGLU.so.1)
-target_link_libraries(aServer /home/ubuntu/GithubFiles/aServer/lib/libjasper.so.1)
-target_link_libraries(aServer /home/ubuntu/GithubFiles/aServer/lib/libdc1394.so.22)
+#target_link_libraries(aServer /home/ubuntu/GithubFiles/aServer/lib/libGLU.so.1)
+#target_link_libraries(aServer /home/ubuntu/GithubFiles/aServer/lib/libjasper.so.1)
+#target_link_libraries(aServer /home/ubuntu/GithubFiles/aServer/lib/libdc1394.so.22)
 
 
 
