@@ -20,12 +20,12 @@
 
 
 
-#include"Re3D/base.h"
-#include"Re3D/re3dx.h"
-#include"Re3D/commands.h"
+#include"../Re3D/base.h"
+#include"../Re3D/re3dx.h"
+#include"../Re3D/commands.h"
 
 #define CVRENDER_NO_GUI
-#include"Re3D/cvrender.h"
+#include"../Re3D/cvrender.h"
 using namespace re3d;
 
 #include <opencv2/opencv.hpp>

@@ -1,0 +1,3 @@
+/home/ubuntu/GithubFiles/aServer/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/GithubFiles/aServer/build/CMakeFiles/aServer.dir
+/home/ubuntu/GithubFiles/aServer/build/CMakeFiles/edit_cache.dir
