@@ -53,3 +53,9 @@ target_link_libraries(aServer /home/ubuntu/GithubFiles/aServer/lib/libva.so.1)
 target_link_libraries(aServer /home/ubuntu/GithubFiles/aServer/lib/libgcrypt.so.11)
 target_link_libraries(aServer /home/ubuntu/GithubFiles/aServer/lib/libIex.so.6)
 target_link_libraries(aServer /home/ubuntu/GithubFiles/aServer/lib/libIlmThread.so.6)
+target_link_libraries(aServer /home/ubuntu/GithubFiles/aServer/lib/libGLU.so.1)
+target_link_libraries(aServer /home/ubuntu/GithubFiles/aServer/lib/libjasper.so.1)
+target_link_libraries(aServer /home/ubuntu/GithubFiles/aServer/lib/libdc1394.so.22)
+
+
+
